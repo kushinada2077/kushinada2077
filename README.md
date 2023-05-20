@@ -24,4 +24,4 @@
 ![visualstudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 
 # Contact
-![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/littlepieceofyou/)
+[![naver](http://img.shields.io/badge/-Blog-white?style=flat-square&logo=naver&link=https://blog.naver.com/littlepieceofyou/)](https://blog.naver.com/littlepieceofyou/)
