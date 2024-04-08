@@ -8,6 +8,7 @@
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlepieceofyou)](https://solved.ac/littlepieceyou/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kushinada)](https://solved.ac/kushinada/)
 
 # 💪Skills
 ### Languages
