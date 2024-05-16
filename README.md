@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmovingsummer&count_bg=%23F48F8F&title_bg=%23EC7574&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=movingsummer&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushinada&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushinada2077&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushinada2077&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p=
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=littlepieceofyou)](https://solved.ac/littlepieceyou/)
