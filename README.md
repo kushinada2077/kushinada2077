@@ -18,11 +18,21 @@
 </div>
 <hr>
 
+### **🎓 学歴 (Education)**
+
+* **韓国外国語大学 ソウルキャンパス (2022.03 ~ 2027.02 卒業予定)** <br>
+  <small>Hankuk University of Foreign Studies, Seoul Campus (Expected Graduation: Feb 2027)</small>
+  * **主専攻:** 英語通翻訳学部 (EICC) <br>
+    <small>Major: English for International Conferences and Communication (EICC)</small>
+  * **二重専攻:** 融合複合ソフトウェア <br>
+    <small>Double Major: Interdisciplinary Software Studies</small>
+<hr>
+
 ### **🏆 受賞及び資格 (Awards & Certifications)**
 
 #### 取得済みの資格 (Obtained)
 * **NAVER boostcamp Web・モバイル 8期 修了** (2023) <br>
-  <small>NAVER boostcamp Web & Mobile 8th - Completed</small>
+  <small>NAVER boostcamp Web & Mobile 8th - Completed (2023)</small>
   > <small><i>韓国を代表するIT企業NAVERが主管する実務中心の協業プロジェクトを通じて、Web開発者としての即戦力を証明しました。</i></small> <br>
   > <small><i>Proved job-readiness as a Web Developer through a practical, team-based project supervised by NAVER, a leading IT company in Korea.</i></small>
 
@@ -32,7 +42,7 @@
   > <small><i>Demonstrated objective, high-level problem-solving skills by passing an advanced algorithm test equivalent to Samsung's hiring standards.</i></small>
 
 * **Samsung DX 夏季大学生アルゴリズム特別講習 修了** (2024) <br>
-  <small>Samsung Electronics DX Summer Collegiate Algorithm Intensive Course - Completed</small>
+  <small>Samsung Electronics DX Summer Collegiate Algorithm Intensive Course - Completed (2024)</small>
 
 * **第6回 HUFS Code Festival - 銀賞** <br>
   <small>The 6th HUFS Code Festival - Silver Prize (2nd Place)</small>
