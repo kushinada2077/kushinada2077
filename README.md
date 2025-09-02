@@ -37,6 +37,9 @@
 * **第6回 HUFS Code Festival - 銀賞** <br>
   <small>The 6th HUFS Code Festival - Silver Prize (2nd Place)</small>
 
+* **日本語能力試験N1 合格 (162/180点)** <br>
+  <small>JLPT N1 - Passed (Score: 162/180)</small>
+
 #### 学習中及び取得予定の資格 (In Progress / Planned)
 * **TOEIC 900点以上** (取得予定) <br>
   <small>TOEIC 900+ (Planned)</small>
@@ -47,7 +50,7 @@
 ### **🚀 プロジェクト (Projects)**
 * **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム (バックエンド担当) <br>
   <small>A real-time algorithm competition platform with arcade-style items. (Backend role)</small>
-* **[PS Helper](링크-입력):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
+* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
   <small>A Chrome extension to improve the efficiency of solving algorithm problems. (Personal project)</small>
 <hr>
 
