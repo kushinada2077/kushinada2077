@@ -66,7 +66,8 @@
 <hr>
 
 ### **🚀 プロジェクト (Projects)**
-* **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム
+* **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム <br>
+  <small><i>A real-time algorithm competition platform featuring arcade-style item battles.</i></small>
   > **役割:** バックエンド開発
   >
   > **主な貢献 / Key Contributions:**
@@ -81,7 +82,8 @@
   >
   > **使用技術:** `Node.js`, `NestJS`, `TypeScript`, `WebSocket`, `Redis`, `MySQL`
 
-* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト)
+* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
+  <small><i>A Chrome extension to improve the efficiency of algorithm problem-solving. (Personal Project)</i></small>
   > **主な機能 / Key Features:**
   > - ショートカットキーを使い、問題サイトのテストケースをテキストファイル(.txt)としてローカルに即時保存 <br>
   >   <small><i>Instantly saves test cases from problem sites as local .txt files using a keyboard shortcut.</i></small>
@@ -90,7 +92,6 @@
   >   <small><i>Automatically detects and removes file I/O code used for local testing upon submission.</i></small>
   >
   > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`
-<hr>
 
 ### **🛠️ 技術スタック (Tech Stack)**
 <table align="center">
