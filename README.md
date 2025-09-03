@@ -37,13 +37,13 @@
 #### 取得済みの資格 (Obtained)
 * **NAVER boostcamp Web・モバイル 8期 修了** (2023) <br>
   <small>NAVER boostcamp Web & Mobile 8th - Completed (2023)</small>
-  > <small><i>韓国を代表するIT企業NAVERが主管する実務中心の協業プロジェクトを通じて、Web開発者としての即戦力を証明しました。</i></small> <br>
+  > <small><i>韓国を代表するIT企業NAVERが主管する、選抜制の集中開発ブートキャンプです。実務レベルの協業プロジェクトを通じて、Web開発者としての即戦力とチーム開発能力を証明しました。</i></small> <br>
   > <small><i>Proved job-readiness as a Web Developer through a practical, team-based project supervised by NAVER, a leading IT company in Korea.</i></small>
 
 * **Samsung SW Competency Test - Level B 取得** <br>
   <small>Samsung SW Competency Test - Certified Level B</small>
-  > <small><i>世界的な技術企業であるSamsungの採用基準に準ずる高難度のアルゴリズムテストに合格し、客観的な問題解決能力を証明しました。</i></small> <br>
-  > <small><i>Demonstrated objective, high-level problem-solving skills by passing an advanced algorithm test equivalent to Samsung's hiring standards.</i></small>
+  > <small><i>世界的IT企業であるSamsungの採用基準に準ずる高難度のアルゴリズムテストです。韓国のIT業界では開発者のアルゴリズム能力を客観的に示す公信力のある資格として広く認知されており、高度な問題解決能力を証明しました。</i></small> <br>
+  > <small><i>This is an advanced algorithm test equivalent to Samsung's hiring standards. It is widely recognized in the Korean IT industry as a credible certification that objectively demonstrates a developer's high-level problem-solving skills.</i></small>
 
 * **Samsung DX 夏季大学生アルゴリズム特別講習 修了** (2024) <br>
   <small>Samsung Electronics DX Summer Collegiate Algorithm Intensive Course - Completed (2024)</small>
@@ -54,8 +54,6 @@
   <small>The 6th HUFS Code Festival - Silver Prize (2nd Place)</small>
   > <small><i>韓国外国語大学 AI教育院とGoogle Developer Groups on Campus HUFSが共同主催したアルゴリズムプログラミング大会で銀賞を受賞しました。</i></small> <br>
   > <small><i>Won the Silver Prize in an algorithmic programming competition co-hosted by the HUFS AI Education Center and Google Developer Groups on Campus HUFS.</i></small>
-
-
 
 * **日本語能力試験N1 合格 (162/180点)** <br>
   <small>JLPT N1 - Passed (Score: 162/180)</small>
