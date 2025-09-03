@@ -47,9 +47,15 @@
 
 * **Samsung DX 夏季大学生アルゴリズム特別講習 修了** (2024) <br>
   <small>Samsung Electronics DX Summer Collegiate Algorithm Intensive Course - Completed (2024)</small>
+  > <small><i>選抜された大学生を対象に、Samsung Electronicsのトップエンジニアがメンターとして指導する集中アルゴリズトレーニングプログラムを修了しました。</i></small> <br>
+  > <small><i>Completed a selective, intensive algorithm training program for university students, mentored by top-tier engineers from Samsung Electronics.</i></small>
 
 * **第6回 HUFS Code Festival - 銀賞** <br>
   <small>The 6th HUFS Code Festival - Silver Prize (2nd Place)</small>
+  > <small><i>韓国外国語大学 AI教育院とGoogle Developer Groups on Campus HUFSが共同主催したアルゴリズムプログラミング大会で銀賞を受賞しました。</i></small> <br>
+  > <small><i>Won the Silver Prize in an algorithmic programming competition co-hosted by the HUFS AI Education Center and Google Developer Groups on Campus HUFS.</i></small>
+
+
 
 * **日本語能力試験N1 合格 (162/180点)** <br>
   <small>JLPT N1 - Passed (Score: 162/180)</small>
