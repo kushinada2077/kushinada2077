@@ -4,12 +4,12 @@
 
 <div align="center">
 
-### ✍️ **紹介 (Introduction)**
-問題解決のプロセスを楽しむ、バックエンド開発者を目指しています。<br>
-アルゴリズムで培った論理的思考力と、NAVER boostcampでの実務的な協業経験を基に、<br>
-持続可能で効率的なコード作成を心がけています。<br>
+### ✍️ 紹介 (Introduction)
+問題解決のプロセスそのものを楽しむ、バックエンド開発者志望のイ・ドンハです。<br>
+アルゴリズムで培った論理的思考力と、NAVER boostcampでのチーム開発経験を強みとしています。<br>
+これらの経験を活かし、ユーザーに価値を提供し続ける、拡張性と保守性の高いシステム開発に貢献したいと考えています。<br>
 <br>
-<small>Aspiring Backend Developer with a passion for problem-solving. <br>I leverage a strong foundation in algorithms and hands-on collaborative experience from NAVER boostcamp <br>to build efficient and sustainable software.</small>
+<small>Aspiring Backend Developer with a passion for the problem-solving process itself. <br>I leverage a strong foundation in algorithms and hands-on collaborative experience from NAVER boostcamp <br>to contribute to building scalable and maintainable systems that continuously provide value to users.</small>
 
 </div>
 
@@ -38,16 +38,16 @@
 * **NAVER boostcamp Web・モバイル 8期 修了** (2023) <br>
   <small>NAVER boostcamp Web & Mobile 8th - Completed (2023)</small>
   > <small><i>韓国を代表するIT企業NAVERが主管する、選抜制の集中開発ブートキャンプです。実務レベルの協業プロジェクトを通じて、Web開発者としての即戦力とチーム開発能力を証明しました。</i></small> <br>
-  > <small><i>Proved job-readiness as a Web Developer through a practical, team-based project supervised by NAVER, a leading IT company in Korea.</i></small>
+  > <small><i>Completed a selective, intensive development bootcamp by NAVER, Korea's leading IT company, proving job-readiness and collaborative skills through a practical, industry-level project.</i></small>
 
 * **Samsung SW Competency Test - Level B 取得** <br>
   <small>Samsung SW Competency Test - Certified Level B</small>
-  > <small><i>世界的IT企業であるSamsungの採用基準に準ずる高難度のアルゴリズムテストです。韓国のIT業界では開発者のアルゴリズム能力を客観的に示す公信力のある資格として広く認知されており、高度な問題解決能力を証明しました。</i></small> <br>
-  > <small><i>This is an advanced algorithm test equivalent to Samsung's hiring standards. It is widely recognized in the Korean IT industry as a credible certification that objectively demonstrates a developer's high-level problem-solving skills.</i></small>
+  > <small><i>世界的IT企業であるSamsungの採用基準に準ずる高難度のアルゴリズムテストです。韓国のIT業界では開発者のアルゴリズム能力を客観的に示す公信力のある資格として広く認知されており、高度な問題解決能力を証明するものです。</i></small> <br>
+  > <small><i>Proved high-level problem-solving skills by passing this advanced algorithm test, which is equivalent to Samsung's hiring standards and widely recognized in the Korean IT industry as a credible developer certification.</i></small>
 
 * **Samsung DX 夏季大学生アルゴリズム特別講習 修了** (2024) <br>
   <small>Samsung Electronics DX Summer Collegiate Algorithm Intensive Course - Completed (2024)</small>
-  > <small><i>選抜された大学生を対象に、Samsung Electronicsのトップエンジニアがメンターとして指導する集中アルゴリズトレーニングプログラムを修了しました。</i></small> <br>
+  > <small><i>選抜された大学生を対象に、Samsung Electronicsのトップエンジニアがメンターとして指導する集中アルゴリズムトレーニングプログラムを修了しました。</i></small> <br>
   > <small><i>Completed a selective, intensive algorithm training program for university students, mentored by top-tier engineers from Samsung Electronics.</i></small>
 
 * **第6回 HUFS Code Festival - 銀賞** <br>
@@ -66,14 +66,43 @@
 <hr>
 
 ### **🚀 プロジェクト (Projects)**
-* **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム (バックエンド担当) <br>
-  <small>A real-time algorithm competition platform with arcade-style items. (Backend role)</small>
-* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
-  <small>A Chrome extension to improve the efficiency of solving algorithm problems. (Personal project)</small>
+* **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム
+  > **役割:** バックエンド開発
+  >
+  > **主な貢献 / Key Contributions:**
+  > - NginxとWebSocketを活用し、低遅延なリアルタイム対戦環境の基盤を設計・構築 <br>
+  >   <small><i>Architected and implemented the core infrastructure for a low-latency, real-time competition platform using Nginx and WebSocket.</i></small>
+  >
+  > - 開発プロセスの非効率を解決するためWebSocket実装の主導権を担い、チームの生産性を向上 <br>
+  >   <small><i>Took initiative to lead the WebSocket implementation, resolving team inefficiencies and significantly boosting development productivity.</i></small>
+  >
+  > - FEコードを主体的に分析・通信イベントを再設計し、システム全体の保守性と拡張性を向上 <br>
+  >   <small><i>Proactively analyzed front-end code and redesigned communication events to improve the overall system's maintainability and scalability.</i></small>
+  >
+  > **使用技術:** `Node.js`, `NestJS`, `TypeScript`, `WebSocket`, `Redis`, `MySQL`
+
+* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト)
+  > **主な機能 / Key Features:**
+  > - ショートカットキーを使い、問題サイトのテストケースをテキストファイル(.txt)としてローカルに即時保存 <br>
+  >   <small><i>Instantly saves test cases from problem sites as local .txt files using a keyboard shortcut.</i></small>
+  >
+  > - コード提出時、ローカルテスト用のファイルI/O関連コードを自動的に検出し削除 <br>
+  >   <small><i>Automatically detects and removes file I/O code used for local testing upon submission.</i></small>
+  >
+  > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`
 <hr>
 
 ### **🛠️ 技術スタック (Tech Stack)**
-<table align="center" width="500px">
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/cplusplus-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td>
@@ -82,27 +111,18 @@
       <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
+   <tr>
+    <td align="center"><strong>Database</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-    <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/cplusplus-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
     </td>
   </tr>
 </table>
