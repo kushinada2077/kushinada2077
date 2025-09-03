@@ -82,7 +82,7 @@
   >
   > **使用技術:** `Node.js`, `NestJS`, `TypeScript`, `WebSocket`, `Redis`, `MySQL`
 
-* **[PS Helper](https://github.com/kushinada2077):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
+* **[PS Helper](https://github.com/kushinada2077/PS-Helper):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
   <small><i>A Chrome extension to improve the efficiency of algorithm problem-solving. (Personal Project)</i></small>
   > **主な機能 / Key Features:**
   > - ショートカットキーを使い、問題サイトのテストケースをテキストファイル(.txt)としてローカルに即時保存 <br>
@@ -91,7 +91,7 @@
   > - コード提出時、ローカルテスト用のファイルI/O関連コードを自動的に検出し削除 <br>
   >   <small><i>Automatically detects and removes file I/O code used for local testing upon submission.</i></small>
   >
-  > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`
+  > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`, `Chrome Download API`
 
 ### **🛠️ 技術スタック (Tech Stack)**
 <table align="center">
