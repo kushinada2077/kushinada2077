@@ -14,10 +14,12 @@
 </div>
 
 <div align="center"> 
-  <a href="https://solved.ac/kushinada"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kushinada"/></a>
-  <a href="https://atcoder.jp/users/kushinada" target="_blank">
-	<img src="https://atcoder.junah.dev/v1/generate_badge?name=kushinada" />
-</a>
+  <a href="https://solved.ac/kushinada">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kushinada" width="446" height="195"/>
+  </a>
+  <a href="https://github.com/kushinada/atcoder-readme-stats" target="_blank" rel="noopener">
+    <img src="https://atcoder-readme-stats.vercel.app/stats/kushinada" alt="kushinada's atcoder stats" width="446" height="195"/>
+  </a>
 </div>
 <hr>
 
