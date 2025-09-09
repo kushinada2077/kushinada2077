@@ -103,33 +103,54 @@
 <hr>
 
 ### **🚀 プロジェクト (Projects)**
-* **[Code Clash](https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio):** アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム <br>
-  <small><i>A real-time algorithm competition platform featuring arcade-style item battles.</i></small>
-  > **役割:** バックエンド開発
-  >
-  > **主な貢献 / Key Contributions:**
-  > - NginxとWebSocketを活用し、低遅延なリアルタイム対戦環境の基盤を設計・構築 <br>
-  >   <small><i>Architected and implemented the core infrastructure for a low-latency, real-time competition platform using Nginx and WebSocket.</i></small>
-  >
-  > - 開発プロセスの非効率を解決するためWebSocket実装の主導権を担い、チームの生産性を向上 <br>
-  >   <small><i>Took initiative to lead the WebSocket implementation, resolving team inefficiencies and significantly boosting development productivity.</i></small>
-  >
-  > - FEコードを主体的に分析・通信イベントを再設計し、システム全体の保守性と拡張性を向上 <br>
-  >   <small><i>Proactively analyzed front-end code and redesigned communication events to improve the overall system's maintainability and scalability.</i></small>
-  >
-  > **使用技術:** `Node.js`, `NestJS`, `TypeScript`, `WebSocket`, `Redis`, `MySQL`
 
-* **[PS Helper](https://github.com/kushinada2077/PS-Helper):** アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
-  <small><i>A Chrome extension to improve the efficiency of algorithm problem-solving. (Personal Project)</i></small>
-  > **主な機能 / Key Features:**
-  > - ショートカットキーを使い、問題サイトのテストケースをテキストファイル(.txt)としてローカルに即時保存 <br>
-  >   <small><i>Instantly saves test cases from problem sites as local .txt files using a keyboard shortcut.</i></small>
-  >
-  > - コード提出時、ローカルテスト用のファイルI/O関連コードを自動的に検出し削除 <br>
-  >   <small><i>Automatically detects and removes file I/O code used for local testing upon submission.</i></small>
-  >
-  > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`, `Chrome Download API`
+<p>
+  • <b><a href="https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio">Code Clash</a>:</b> アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム <br>
+  &nbsp; <small><i>A real-time algorithm competition platform featuring arcade-style item battles.</i></small>
+</p>
+<blockquote style="margin-left: 20px;">
+  <p>
+    <b>役割:</b> バックエンド開発
+  </p>
+  <p>
+    <b>主な貢献 / Key Contributions:</b><br>
+    - NginxとWebSocketを活用し、低遅延なリアルタイム対戦環境の基盤を設計・構築 <br>
+    &nbsp; &nbsp;<small><i>Architected and implemented the core infrastructure for a low-latency, real-time competition platform using Nginx and WebSocket.</i></small><br>
+    - 開発プロセスの非効率を解決するためWebSocket実装の主導権を担い、チームの生産性を向上 <br>
+    &nbsp; &nbsp;<small><i>Took initiative to lead the WebSocket implementation, resolving team inefficiencies and significantly boosting development productivity.</i></small><br>
+    - FEコードを主体的に分析・通信イベントを再設計し、システム全体の保守性と拡張性を向上 <br>
+    &nbsp; &nbsp;<small><i>Proactively analyzed front-end code and redesigned communication events to improve the overall system's maintainability and scalability.</i></small>
+  </p>
+  <p>
+    <b>使用技術 / Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+</blockquote>
 
+<p>
+  • <b><a href="https://github.com/kushinada2077/PS-Helper">PS Helper</a>:</b> アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト) <br>
+  &nbsp; <small><i>A Chrome extension to improve the efficiency of algorithm problem-solving. (Personal Project)</i></small>
+</p>
+<blockquote style="margin-left: 20px;">
+  <p>
+    <b>主な機能 / Key Features:</b><br>
+    - ショートカットキーを使い、問題サイトのテストケースをテキストファイル(.txt)としてローカルに即時保存 <br>
+    &nbsp; &nbsp;<small><i>Instantly saves test cases from problem sites as local .txt files using a keyboard shortcut.</i></small><br>
+    - コード提出時、ローカルテスト用のファイルI/O関連コードを自動的に検出し削除 <br>
+    &nbsp; &nbsp;<small><i>Automatically detects and removes file I/O code used for local testing upon submission.</i></small>
+  </p>
+  <p>
+    <b>使用技術 / Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+</blockquote>
 <hr>
 
 ### **🛠️ 技術スタック (Tech Stack)**
