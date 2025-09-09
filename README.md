@@ -93,11 +93,13 @@
 * **日本語能力試験N1 合格 (162/180点)** <br>
   <small>JLPT N1 - Passed (Score: 162/180)</small>
 
+* **TOEIC公開テスト 860点 取得** <br>
+  <small>TOEIC Listening & Reading Test - Score: 860</small>
+
 #### 学習中及び取得予定の資格 (In Progress / Planned)
-* **TOEIC 900点以上** (取得予定) <br>
-  <small>TOEIC 900+ (Planned)</small>
 * **日本語漢字能力検定2級** (取得予定) <br>
   <small>Japanese Kanji Aptitude Test - Level 2 (Kanken) (Planned)</small>
+  
 <hr>
 
 ### **🚀 プロジェクト (Projects)**
@@ -168,10 +170,10 @@
 
 * **韓国外国語大学 ソウルキャンパス (2022.03 ~ 2027.02 卒業予定)** <br>
   <small>Hankuk University of Foreign Studies, Seoul Campus (Expected Graduation: Feb 2027)</small>
-  * **主専攻:** 英語通翻訳学部 (EICC) <br>
+  * **主専攻:** 英語通翻訳学科 (EICC) <br>
     <small>Major: English for International Conferences and Communication (EICC)</small>
-  * **二重専攻:** 融合複合ソフトウェア <br>
-    <small>Double Major: Interdisciplinary Software Studies</small>
+  * **二重専攻:** AI融合専攻 (Software & AI) <br>
+    <small>Double Major: Artificial Intelligence Convergence (Software & AI)</small>
 <hr>
 
 <a href="mailto:kushinada2077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
