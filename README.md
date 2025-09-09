@@ -23,8 +23,6 @@
 </div>
 <hr>
 
-<hr>
-
 ### 📌 主なプロジェクト (Pinned Projects)
 <table align="center">
   <tr>
@@ -67,16 +65,6 @@
   </tr>
 </table>
 
-<hr>
-
-### **🎓 学歴 (Education)**
-
-* **韓国外国語大学 ソウルキャンパス (2022.03 ~ 2027.02 卒業予定)** <br>
-  <small>Hankuk University of Foreign Studies, Seoul Campus (Expected Graduation: Feb 2027)</small>
-  * **主専攻:** 英語通翻訳学部 (EICC) <br>
-    <small>Major: English for International Conferences and Communication (EICC)</small>
-  * **二重専攻:** 融合複合ソフトウェア <br>
-    <small>Double Major: Interdisciplinary Software Studies</small>
 <hr>
 
 ### **🏆 受賞及び資格 (Awards & Certifications)**
@@ -174,6 +162,16 @@
     </td>
   </tr>
 </table>
+<hr>
+
+### **🎓 学歴 (Education)**
+
+* **韓国外国語大学 ソウルキャンパス (2022.03 ~ 2027.02 卒業予定)** <br>
+  <small>Hankuk University of Foreign Studies, Seoul Campus (Expected Graduation: Feb 2027)</small>
+  * **主専攻:** 英語通翻訳学部 (EICC) <br>
+    <small>Major: English for International Conferences and Communication (EICC)</small>
+  * **二重専攻:** 融合複合ソフトウェア <br>
+    <small>Double Major: Interdisciplinary Software Studies</small>
 <hr>
 
 <a href="mailto:kushinada2077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
