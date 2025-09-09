@@ -130,6 +130,8 @@
   >
   > **使用技術:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension API`, `Chrome Download API`
 
+<hr>
+
 ### **🛠️ 技術スタック (Tech Stack)**
 <table align="center">
   <tr>
