@@ -23,10 +23,12 @@
 </div>
 <hr>
 
+<hr>
+
 ### 📌 主なプロジェクト (Pinned Projects)
 <table align="center">
   <tr>
-    <td align="center" width="500">
+    <td align="center" width="500" valign="top">
       <a href="https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=NAVER-boostcamp-8-portfolio&theme=radical&show_owner=true" />
       </a>
@@ -46,7 +48,7 @@
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       </p>
     </td>
-    <td align="center" width="500">
+    <td align="center" width="500" valign="top">
       <a href="https://github.com/kushinada2077/PS-Helper">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=PS-Helper&theme=radical&show_owner=true" />
       </a>
