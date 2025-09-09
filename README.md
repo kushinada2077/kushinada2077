@@ -23,8 +23,6 @@
 </div>
 <hr>
 
-<hr>
-
 ### 📌 主なプロジェクト (Pinned Projects)
 <table align="center">
   <tr>
