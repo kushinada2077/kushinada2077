@@ -23,6 +23,51 @@
 </div>
 <hr>
 
+<hr>
+
+### 📌 主なプロジェクト (Pinned Projects)
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <a href="https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=NAVER-boostcamp-8-portfolio&theme=radical&show_owner=true" />
+      </a>
+      <br>
+      <small>
+        <i><b>Code Clash:</b> アイテム戦を取り入れたリアルタイムアルゴリズム対戦プラットフォーム</i><br>
+        <i>A real-time algorithm competition platform featuring arcade-style item battles.</i>
+      </small>
+      <br><br>
+      <p>
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+        <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td align="center" width="500">
+      <a href="https://github.com/kushinada2077/PS-Helper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=PS-Helper&theme=radical&show_owner=true" />
+      </a>
+      <br>
+      <small>
+        <i><b>PS Helper:</b> アルゴリズム問題解決(PS)の効率を高めるChrome拡張機能 (個人プロジェクト)</i><br>
+        <i>A Chrome extension to improve the efficiency of algorithm problem-solving. (Personal Project)</i>
+      </small>
+      <br><br>
+      <p>
+        <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 ### **🎓 学歴 (Education)**
 
