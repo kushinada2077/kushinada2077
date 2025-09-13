@@ -27,8 +27,8 @@
 <table align="center">
   <tr>
     <td align="center" width="500" valign="top">
-      <a href="https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=NAVER-boostcamp-8-portfolio&theme=radical&show_owner=true" />
+      <a href="[https://github.com/kushinada2077/NAVER-boostcamp-8-portfolio](https://github.com/kushinada2077/CodeClash)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=CodeClash&theme=radical&show_owner=true" />
       </a>
       <br>
       <small>
