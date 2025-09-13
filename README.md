@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="500" valign="top">
       <a href="https://github.com/kushinada2077/PS-Helper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=PS-Helper&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushinada2077&repo=PS-Helper&theme=radical&show_owner=true&dummy=1" />
       </a>
       <br>
       <small>
