@@ -95,10 +95,6 @@
 
 * **TOEIC公開テスト 860点 取得** <br>
   <small>TOEIC Listening & Reading Test - Score: 860</small>
-
-#### 学習中及び取得予定の資格 (In Progress / Planned)
-* **日本語漢字能力検定2級** (取得予定) <br>
-  <small>Japanese Kanji Aptitude Test - Level 2 (Kanken) (Planned)</small>
   
 <hr>
 
