@@ -70,7 +70,7 @@
 ### **🏆 受賞及び資格 (Awards & Certifications)**
 
 #### 取得済みの資格 (Obtained)
-* **NAVER boostcamp Web・モバイル 8期 修了** (2023) <br>
+* **NAVER boostcamp ウェブ・モバイル 8期 修了** (2023) <br>
   <small>NAVER boostcamp Web & Mobile 8th - Completed (2023)</small>
   > <small><i>韓国を代表するIT企業NAVERが主管する、選抜制の集中開発ブートキャンプです。実務レベルの協業プロジェクトを通じて、Web開発者としての即戦力とチーム開発能力を証明しました。</i></small> <br>
   > <small><i>Completed a selective, intensive development bootcamp by NAVER, Korea's leading IT company, proving job-readiness and collaborative skills through a practical, industry-level project.</i></small>
