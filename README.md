@@ -115,7 +115,7 @@
     - 開発プロセスの非効率を解決するためWebSocket実装の主導権を担い、チームの生産性を向上 <br>
     &nbsp; &nbsp;<small><i>Took initiative to lead the WebSocket implementation, resolving team inefficiencies and significantly boosting development productivity.</i></small><br>
     - FEコードを主体的に分析・通信イベントを再設計し、システム全体の保守性と拡張性を向上 <br>
-    &nbsp; &nbsp;<small><i>Proactively analyzed front-end code and redesigned communication events to improve the overall system's maintainability and scalability.</i></small>
+    &nbsp; &nbsp;<small><i>Proactively analyzed frontend code and redesigned communication events to improve the overall system's maintainability and scalability.</i></small>
   </p>
   <p>
     <b>使用技術 / Tech Stack:</b><br>
